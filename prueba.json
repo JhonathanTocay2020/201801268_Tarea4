@@ -1,0 +1,68 @@
+[
+    {
+        "nombre": "registro1",
+        "edad": 45,
+        "activo": true,
+        "saldo": 56
+    },
+    {
+        "nombre": "registro2",
+        "edad": 35,
+        "activo": false,
+        "saldo": 12345
+    },
+    {
+        "nombre": "registro3",
+        "edad": 10,
+        "activo": false,
+        "saldo": 45222
+    },
+    {
+        "nombre": "registro4",
+        "edad": 32,
+        "activo": false,
+        "saldo": 45000
+    },
+    {
+        "nombre": "registro5",
+        "edad": 20,
+        "activo": true,
+        "saldo": 4342
+    },
+    {
+        "nombre": "registro6",
+        "edad": 47,
+        "activo": false,
+        "saldo": 9987
+    },
+    {
+        "nombre": "registro7",
+        "edad": 60,
+        "activo": false,
+        "saldo": 450099
+    },
+    {
+        "nombre": "registro8",
+        "edad": 34,
+        "activo": false,
+        "saldo": 45009987
+    },
+    {
+        "nombre": "registro9",
+        "edad": 70,
+        "activo": true,
+        "saldo": 4588776
+    },
+    {
+        "nombre": "registro10",
+        "edad": 87,
+        "activo": true,
+        "saldo": 23456
+    },
+    {
+        "nombre": "registro11",
+        "edad": 22,
+        "activo": false,
+        "saldo": 1234
+    }
+]
